@@ -1,0 +1,180 @@
+#+TITLE: My Days
+
+* 일일 시간표
+  | 시간 | 업무 |
+  |------+------|
+  | 0700 | 기상 |
+  |      |      |
+
+* 일일업무일지
+** 2019 Nov
+   | ID | Push | Pull | 음주 | 셔텨 | 나노 | yblabo | 유데미 | 평택   | 티스토 | 일본어 | EDS | ZEN | 이더 |
+   |    |   up |   up |      | 스톡 | 유다 |        | 랍강의 | 사랑방 | 리스킨 |        |     | VA  | 리움 |
+   |    |   15 |    8 |    1 | 0    | 0    |      0 | 0      | 0      | 0      |      0 |   0 | 0   | 0    |
+   |----+------+------+------+------+------+--------+--------+--------+--------+--------+-----+-----+------|
+   | 01 |    8 |    1 |      |      |      |        |        |        |        |        |     |     |      |
+   | 02 |    1 |    1 |      |      |      |        |        |        |        |        |     |     |      |
+   | 03 |    1 |    1 |      |      |      |        |        |        |        |        |     |     |      |
+   | 04 |    1 |    1 |      |      |      |        |        |        |        |        |     |     |      |
+   | 05 |    1 |    1 |      |      |      |        |        |        |        |        |     |     |      |
+   | 06 |    1 |    1 |      |      |      |        |        |        |        |        |     |     |      |
+   | 07 |    1 |    1 |      |      |      |        |        |        |        |        |     |     |      |
+   | 08 |    1 |    1 |      |      |      |        |        |        |        |        |     |     |      |
+   | 09 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 10 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 11 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 12 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 13 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 14 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 15 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 16 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 17 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 18 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 19 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 20 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 21 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 22 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 23 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 24 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 25 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 26 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 27 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 28 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 29 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 30 |      |      |    1 |      |      |        |        |        |        |        |     |     |      |
+   |    |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   #+TBLFM: @3$2=vsum(@4..@34)::@3$3=vsum(@4..@34)::@3$4=vsum(@4..@34)::@3$5=vsum(@4..@34)::@3$6=vsum(@4..@34)::@3$7=vsum(@4..@34)::@3$8=vsum(@4..@34)::@3$9=vsum(@4..@34)::@3$10=vsum(@4..@34)::@3$11=vsum(@4..@34)::@3$12=vsum(@4..@34)::@3$13=vsum(@4..@34)::@3$14=vsum(@4..@34)
+   예제) #+TBLFM: $2=vsum(@4..@-1)
+** 2019 Dec
+   | ID | Push | Pull | 음주 | 셔텨 | 나노 | yblabo | 유데미 | 평택   | 티스토 | 일본어 | EDS | ZEN | 이더 |
+   |    |   up |   up |      | 스톡 | 유다 |        | 랍강의 | 사랑방 | 리스킨 |        |     | VA  | 리움 |
+   |    |   15 |    8 |    0 | 0    | 0    |      0 | 0      | 0      | 0      |      0 |   0 | 0   | 0    |
+   |----+------+------+------+------+------+--------+--------+--------+--------+--------+-----+-----+------|
+   | 01 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 02 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 03 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 04 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 05 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 06 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 07 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 08 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 09 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 10 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 11 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 12 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 13 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 14 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 15 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 16 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 17 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 18 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 19 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 20 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 21 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 22 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 23 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 24 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 25 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 26 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 27 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 28 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 29 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 30 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   | 31 |      |      |      |      |      |        |        |        |        |        |     |     |      |
+   #+TBLFM: @3$2=vsum(@4..@34)::@3$3=vsum(@4..@34)::@3$4=vsum(@4..@34)::@3$5=vsum(@4..@34)::@3$6=vsum(@4..@34)::@3$7=vsum(@4..@34)::@3$8=vsum(@4..@34)::@3$9=vsum(@4..@34)::@3$10=vsum(@4..@34)::@3$11=vsum(@4..@34)::@3$12=vsum(@4..@34)::@3$13=vsum(@4..@34)::@3$14=vsum(@4..@34)
+   예제) #+TBLFM: $2=vsum(@4..@-1)
+
+* Journal
+** 2019 11
+*** 27 Wed 혼자 돌아다님
+    소니 안양 서비스센터에 카메라 수리: 내일 찾으러 오라함
+    다행히 무상수리기간이 남아있었다.
+
+    벌써 1년이 다 되어간다. 마무리를 위해 다이어트 및 금주!!
+    | What     |    Won |
+    |----------+--------|
+    | 주유     |  90000 |
+    | 내 신발  |  30000 |
+    | 요술장갑 |   3900 |
+    | 커피     |   2000 |
+    | 세차     |  28000 |
+    |----------+--------|
+    | Total    | 153900 |
+    #+TBLFM: @>$2=vsum(@I..@II)
+
+*** 28 Thu 선희 마벨리아 Free Lunch 다녀옴. 동백이 보느라 선희랑 새벽 3시넘어서 잠 
+    오늘 지출 없음
+    이맥스 설정중, 이맥스 배우는 중
+    나는 하루종일 집에만 있었음
+    이안이 어린이집에서 뮤지컬 관람하고 옴
+
+* 지안공부일지
+
+* 평택월세 가계부
+** 전체내역
+   | Date  | What           |  Deposit | Withdraw | Balance |
+   |-------+----------------+----------+----------+---------|
+   | 10/21 | 렌트수령       | 28300000 |          |         |
+   |       | 8백30만원 사용 |          |  8300000 |         |
+   |-------+----------------+----------+----------+---------|
+   |       | Total          | 28300000 |  8300000 |       0 |
+   #+TBLFM: @>$3=vsum(@I..@II)::@>$4=vsum(@I..@II)::@>$5=vsum(@I..@II)
+** 상세내역
+*** (10/24)금액이 커서 2천만원, 8백30만원 나눠서 사용
+   2천만원은 묶음으로 따로 보관, 옆에는 8백30만원으로 사용
+** 8백30만원 사용내역
+   | 월 | 일 | What       | Deposit | Withdraw | Balance | Note                   |
+   |----+----+------------+---------+----------+---------+------------------------|
+   | 10 | 24 | 시작       | 8300000 |          |         |                        |
+   |    | 25 | 선희헬스장 |         |   700000 |         | 현금영수증 함          |
+   |    | 28 | 생활비     |         |   300000 |         | 내가 씀                |
+   |    | 28 | 생활비     |         |   300000 |         | 선희 생활비            |
+   | 11 | 21 | 생활비     |         |  1500000 |         | 선희 생활비 카카오뱅크 |
+   |    | 27 | 생활비     |         |   500000 |         | 내 생활비              |
+   |----+----+------------+---------+----------+---------+------------------------|
+   |    |    | Total      | 8300000 |  3300000 |       0 |                        |
+   #+TBLFM: @>$4=vsum(@I..@II)::@>$5=vsum(@I..@II)::@>$6=vsum(@I..@II)
+
+* 추진예정 프로젝트
+** 멕시코 이태리 교수
+** 한문 글자 그림 ML
+
+* Resources
+** Emacs Guide
+https://drypot.wordpress.com/2019/02/14/emacs-2%EC%A3%BC-%EC%82%BD%EC%A7%88%EA%B8%B0/
+https://www.youtube.com/channel/UCDEtZ7AKmwS0_GNJog01D2g?app=desktop
+; 유용한 정보 많음 https://orgmode.org/worg/org-faq.html
+; 결정적 튜토리얼 https://www.youtube.com/watch?v=sQS06Qjnkcc&list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE&index=2&t=2s
+*** youtube
+https://www.youtube.com/watch?v=5vGGgfs0q3k&feature=youtu.be
+** Korean issues
+https://crazia.tistory.com/entry/Emacs-24x-%EB%B2%84%EC%A0%BC-%ED%95%9C%EA%B8%80-%ED%8F%B0%ED%8A%B8-%EC%84%A4%EC%A0%95-orgmode-%EC%9D%98-%ED%95%9C%EA%B8%80-%ED%85%8C%EC%9D%B4%EB%B8%94-%EA%B9%A8%EC%A7%80%EC%A7%80-%EC%95%8A%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EA%B8%B0
+https://isprometheo.github.io/2017/01/05/Emacs-org-mode-table-%ED%95%9C%EA%B8%80.html
+** Math & Formulas
+https://emacs.stackexchange.com/questions/20498/how-do-i-do-simple-addition-in-org-mode
+https://stackoverflow.com/questions/6688075/permanently-summing-a-column-in-an-org-mode-table
+https://orgmode.org/manual/Field-and-range-formulas.html
+** init File
+https://www.emacswiki.org/emacs/InitFile
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html
+** MELPA
+http://ergoemacs.org/emacs/emacs_package_system.html
+** ERC
+   https://www.gnu.org/software/emacs/manual/html_mono/erc.html#Getting-Started
+** Settings
+   https://emacs.stackexchange.com/questions/28906/how-to-switch-off-the-sounds
+** ThunderLink
+https://vxlabs.com/2019/04/20/link-thunderbird-emails-from-emacs-orgmode/
+
+* My Study
+Consistent Technical Documents Using Emacs and Org Mode
+https://youtu.be/0g9BcZvQbXU
+
+Literate Devops with Emacs
+https://youtu.be/dljNabciEGg
+* Org UML
+https://orgmode.org/worg/org-tutorials/org-dot-diagrams.html
+
+youtube https://duckduckgo.com/?q=emacs+artist+mode&t=lm&iax=videos&ia=videos&iai=cIuX87Xo8Fc
+
+https://lgfang.github.io/computer/2015/12/11/org-diagram
